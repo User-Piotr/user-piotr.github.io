@@ -27,9 +27,6 @@ paginate     = 10
   keywords = "showcase"
   images = [""]
 
-[taxonomies]
-    category = "blog"
-
 [languages]
   [languages.en]
     title = "Piotr Kmiecik"
@@ -49,8 +46,3 @@ paginate     = 10
     [[params.social]]
     name = "github"
     url = "https://github.com/UserBulba"
-
-    [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/blog"
