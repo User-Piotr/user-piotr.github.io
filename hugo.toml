@@ -1,0 +1,56 @@
+baseurl      = "localhost"
+title        = "Showcase"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "DevOps Engineer"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "Showcase"
+  keywords = "showcase"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+
+[languages]
+  [languages.en]
+    title = "Piotr Kmiecik"
+
+    [languages.en.params.logo]
+      logoText = "/home/piotr"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/kmiecik-piotr-62920b125/"
+
+    [[params.social]]
+    name = "github"
+    url = "https://github.com/UserBulba"
+
+    [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/blog"
