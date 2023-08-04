@@ -44,4 +44,4 @@ paginate     = 10
 
     [[params.social]]
     name = "email"
-    url = "piotr@kmiecik.it"
+    url = "mailto:piotr@kmiecik.it"
