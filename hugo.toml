@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://userbulba.github.io/"
 title        = "Showcase"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
