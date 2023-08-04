@@ -43,5 +43,5 @@ paginate     = 10
     url = "https://github.com/UserBulba"
 
     [[params.social]]
-    name = "mail"
+    name = "email"
     url = "piotr@kmiecik.it"
