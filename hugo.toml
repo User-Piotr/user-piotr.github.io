@@ -2,6 +2,7 @@ baseurl      = "https://user-piotr.github.io/"
 title        = "Piotr Kmiecik"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
+enableRobotsTXT = true
 [pagination]
   pagerSize = 10
 
