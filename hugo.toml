@@ -8,7 +8,7 @@ theme        = "hello-friend-ng"
 
 [params]
   # Subtitle for home
-  homeSubtitle = "DevOps Engineer"
+  homeSubtitle = "DevOps Engineer | SRE"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
