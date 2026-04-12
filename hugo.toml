@@ -1,5 +1,5 @@
 baseurl      = "https://user-piotr.github.io/"
-title        = "Showcase"
+title        = "Piotr Kmiecik"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 [pagination]
@@ -20,9 +20,9 @@ theme        = "hello-friend-ng"
   enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
-  description = "Showcase"
-  keywords = "showcase"
-  images = [""]
+  description = "Piotr Kmiecik — DevOps Engineer | SRE"
+  keywords = "DevOps, SRE, Site Reliability Engineering"
+  images = ["/img/og.png"]
 
   customJS = ["/js/console.js"]
 
