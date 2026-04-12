@@ -2,7 +2,9 @@ baseurl      = "https://user-piotr.github.io/"
 title        = "Showcase"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
+[pagination]
+  pagerSize = 10
+
 
 [params]
   # Subtitle for home
