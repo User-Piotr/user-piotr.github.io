@@ -10,7 +10,7 @@
   console.log(' ');
   console.log('%c┌──(piotr@kmiecik.it)', green);
   console.log('%c└─$ cat contact.txt', green);
-  console.log('%c  ✉ %c mailto:piotr@kmiecik.it', bold, reset);
+  console.log('%c  ✉  piotr@kmiecik.it', bold);
   console.log('%c  🐙%c https://github.com/User-Piotr', bold, reset);
   console.log(' ');
   console.log('%c(nothing to hack here, but glad you looked)', dim);
