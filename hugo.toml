@@ -24,6 +24,8 @@ theme        = "hello-friend-ng"
   keywords = "showcase"
   images = [""]
 
+  customJS = ["/js/console.js"]
+
 [languages]
   [languages.en]
     title = "Piotr Kmiecik"
